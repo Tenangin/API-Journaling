@@ -13,24 +13,6 @@ API ini merupakan backend service berbasis **FastAPI** untuk melakukan **analisi
 
 ---
 
-## Struktur Proyek
-
-project/
-│
-├── main.py
-├── model/
-│ ├── best_model.h5
-│ ├── tokenizer.json
-│ └── label_encoder.pkl
-│
-├── utils/
-│ ├── attention_layer.py 
-│ └── text_utils.py
-│
-├── requirements.txt
-└── README.md
-
-
 ## Menjalankan API
 ### 1. Clone dan Install
 ```
